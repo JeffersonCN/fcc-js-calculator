@@ -1,2 +1,4 @@
 # fcc-js-calculator
-Calculator done for the FreeCodeCamp Front-end Certification program.
+Calculator made for the FreeCodeCamp Front-end Certification program.
+
+Codepen demo: http://codepen.io/anon/pen/pEJYvG
